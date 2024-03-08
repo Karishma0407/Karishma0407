@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Karishma</h1>
-<h3 align="center">A passionate Web developer from Montreal</h3>
+<h1 align="left">Hi 👋, I'm Karishma</h1>
+<h3 align="left">Web Developer | Software Developer</h3>
 
 - 🔭 I’m currently working on [Salon Web Application](https://karishma0407.github.io/Salon/)
 
